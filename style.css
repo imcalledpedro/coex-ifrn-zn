@@ -1,0 +1,51 @@
+.bg-E5E5E5 {background-color: #E5E5E5}
+.bg-F2F2F2 {background-color: #F2F2F2}
+.bg-297CAA {background-color: #297CAA}
+.bg-CCCCCC {background-color: #CCCCCC}
+
+.raleway { font-family: 'Raleway', sans-serif}
+
+.roboto { font-family: 'Roboto', sans-serif}
+
+.font-weight-medium {font-weight: 500}
+
+.text-muted {color: #555555!important}
+
+h2 b {font-weight: 800}
+
+hr {color: #888888}
+
+.url {color: #555555}
+
+.description ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+.vd-border {
+	border-bottom: 6px solid rgba(41,124,170,50%)
+}
+
+.uppercase {text-transform: uppercase}
+
+.font-weight-medium {font-weight: 500}
+
+.form-control, .input-group-text {
+	border-radius: 8px;
+}
+
+.form-control::-webkit-input-placeholder {
+  font-family: 'Raleway', sans-serif
+}
+
+.form-control:-ms-input-placeholder {
+  font-family: 'Raleway', sans-serif
+}
+
+.form-control:-moz-placeholder {
+  font-family: 'Raleway', sans-serif
+}
+
+.form-control::-moz-placeholder {
+  font-family: 'Raleway', sans-serif
+}
